@@ -1,28 +1,8 @@
-# 🎮 Tic Tac Toe Game
+---
 
-A browser-based Tic Tac Toe game built using HTML, CSS, and JavaScript.
+## 👨‍💻 About Me
 
-## 🚀 Features
-- Two-player gameplay
-- Interactive UI
-- Winning condition detection
-- Game reset functionality
-- Responsive design
+I am a B.Tech (AI & ML) student with strong interest in Front-End Development and Problem Solving.  
+Currently improving my skills in JavaScript, Data Structures, and Machine Learning.
 
-## 🛠️ Technologies Used
-- HTML
-- CSS
-- JavaScript
-
-## 📚 What I Learned
-- DOM manipulation
-- Event handling
-- Game logic implementation
-- Condition checking in JavaScript
-
-## 📌 How to Run the Project
-1. Download the repository
-2. Open `index.html` in your browser
-
-## 👨‍💻 Author
-Sharath Kumar
+Always open to learning and collaboration.
